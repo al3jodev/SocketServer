@@ -1,0 +1,31 @@
+{
+  "name": "socketserver",
+  "version": "1.0.0",
+  "description": "Socket Server visto en la pagina https://devdactic.com/ionic-4-socket-io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al3jodev/SocketServer.git"
+  },
+  "keywords": [
+    "socketserver",
+    "node",
+    "socketio",
+    "\u001b[D\u001b[D\u001b[D.io",
+    "ionic",
+    "jvascript"
+  ],
+  "author": "Alejandro Jaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al3jodev/SocketServer/issues"
+  },
+  "homepage": "https://github.com/al3jodev/SocketServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
